@@ -15,15 +15,15 @@ Rohit Abbireddi - Software Developer & Developer
 # Setting Up the System
 To begin the setup, follow the steps below:
 ## A. Creating the Backend Database
-The backend database is hosted on Azure Cosmos DB. \ Follow these steps to set up a NoSQL database:\
-Refer to the official Azure Cosmos DB documentation (https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal) for step-by-step guidance. \
-Configure the database to store hotel data efficiently, ensuring proper indexing for queries related to chatbot operations.\
+The backend database is hosted on Azure Cosmos DB. <br> Follow these steps to set up a NoSQL database:
+Refer to the official Azure Cosmos DB documentation (https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-portal) for step-by-step guidance. <br>
+Configure the database to store hotel data efficiently, ensuring proper indexing for queries related to chatbot operations.<br>
 ## B. Configuring the Chatbot Application
-Access the application at BookMeBob.\
-Use the provided username and password to log in.\
-URL for the application: https://app.bookmebob.com\
-A username and password provided by Myma.AI’s Developpment Team.\
-Populate the knowledge base with hotel-specific data such as:\
+Access the application at BookMeBob.<br>
+Use the provided username and password to log in.<br>
+URL for the application: https://app.bookmebob.com<br>
+A username and password provided by Myma.AI’s Developpment Team.<br>
+Populate the knowledge base with hotel-specific data such as:<br>
 - Room types and availability
 - Restaurant and spa services
 - Policies (e.g., cancellation, check-in/out times)
@@ -39,7 +39,7 @@ Create an AI chatbot for Web integration to connect data from the knowledge hub 
 - Step 2: Select the Demo Resort and give a name to the integration.
 - Step 3: Select the Dynamic conversation flow the user created and click on save.
 </br></br>
-Create a Web integration to connect the chatbot into the customer's website  / Facebook page / WhatsApp page etc.This widget should be integrated with other hotel systems, such as printers or room service complaint receivers via APIs. The chatbot’s UI can be modified here before deployment.\
+Create a Web integration to connect the chatbot into the customer's website  / Facebook page / WhatsApp page etc.This widget should be integrated with other hotel systems, such as printers or room service complaint receivers via APIs. The chatbot’s UI can be modified here before deployment.<br>
 - Step 1: Select the Web widget for Property website for connecting the chatbot to a website.
 - Step 2: Select the property and give it an integration name.
 - Step 3: Go to the “appearance" tab to customize the UI of the web widget created and go to the “Chatbot / contact” tab to select the chatbot we created in the previous step.
