@@ -28,14 +28,17 @@ Populate the knowledge base with hotel-specific data such as:\
 - Restaurant and spa services
 - Policies (e.g., cancellation, check-in/out times)
 - Nearby attractions
-Define the dynamic conversation flow to align with the hotel's use case. This could include FAQs, booking instructions, and service requests.\
+</br></br>
+Define the dynamic conversation flow to align with the hotel's use case. This could include FAQs, booking instructions, and service requests.
 - Step 1: Create a new conversation flow and select “dynamic flow” as flow type.
 - Step 2: Select the chatbot model for the chatbot.
 - Step 3: Include training data for the chatbot and attach the documents.
-Create an AI chatbot for Web integration to connect data from the knowledge hub and the dynamic conversation flow.\
+</br></br>
+Create an AI chatbot for Web integration to connect data from the knowledge hub and the dynamic conversation flow.
 - Step 1: Select the AI chatbot for web integration.
 - Step 2: Select the Demo Resort and give a name to the integration.
 - Step 3: Select the Dynamic conversation flow the user created and click on save.
+</br></br>
 Create a Web integration to connect the chatbot into the customer's website  / Facebook page / WhatsApp page etc.This widget should be integrated with other hotel systems, such as printers or room service complaint receivers via APIs. The chatbot’s UI can be modified here before deployment.\
 - Step 1: Select the Web widget for Property website for connecting the chatbot to a website.
 - Step 2: Select the property and give it an integration name.
