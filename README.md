@@ -24,10 +24,10 @@ Use the provided username and password to log in.<br>
 URL for the application: https://app.bookmebob.com<br>
 A username and password provided by Myma.AI’s Developpment Team.<br>
 Populate the knowledge base with hotel-specific data such as:<br>
-- Room types and availability
-- Restaurant and spa services
-- Policies (e.g., cancellation, check-in/out times)
-- Nearby attractions
+  - Room types and availability
+  - Restaurant and spa services
+  - Policies (e.g., cancellation, check-in/out times)
+  - Nearby attractions
 </br></br>
 Define the dynamic conversation flow to align with the hotel's use case. This could include FAQs, booking instructions, and service requests.
 - Step 1: Create a new conversation flow and select “dynamic flow” as flow type.
