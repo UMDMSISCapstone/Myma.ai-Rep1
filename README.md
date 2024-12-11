@@ -84,7 +84,7 @@ Chatbot Hallucinations: Mitigated through advanced training of AI models and rea
 Data Privacy: Ensuring compliance with data protection regulations through robust security measures.
 
 # Contact Information
-Please contact ** Andy Dharmani (andy@myma.com) ** or ** Sandnya Patel (spatil23@umd.edu) ** for any support requests.
+Please contact **Andy Dharmani, Co-Founder of Myma.AI (andy@myma.com)** or **Sandnya Patel, Project Manager - Group 7 (spatil23@umd.edu)** for any support requests.
 
 # Example:
 Event or Promotion Notification Context
