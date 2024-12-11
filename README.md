@@ -23,23 +23,23 @@ Access the application at BookMeBob.<br>
 Use the provided username and password to log in.<br>
 URL for the application: https://app.bookmebob.com<br>
 A username and password provided by Myma.AI’s Developpment Team.<br>
-Populate the knowledge base with hotel-specific data such as:<br>
+* Populate the knowledge base with hotel-specific data such as:<br>
   - Room types and availability
   - Restaurant and spa services
   - Policies (e.g., cancellation, check-in/out times)
   - Nearby attractions
 </br></br>
-Define the dynamic conversation flow to align with the hotel's use case. This could include FAQs, booking instructions, and service requests.
+* Define the dynamic conversation flow to align with the hotel's use case. This could include FAQs, booking instructions, and service requests.
 - Step 1: Create a new conversation flow and select “dynamic flow” as flow type.
 - Step 2: Select the chatbot model for the chatbot.
 - Step 3: Include training data for the chatbot and attach the documents.
 </br></br>
-Create an AI chatbot for Web integration to connect data from the knowledge hub and the dynamic conversation flow.
+* Create an AI chatbot for Web integration to connect data from the knowledge hub and the dynamic conversation flow.
 - Step 1: Select the AI chatbot for web integration.
 - Step 2: Select the Demo Resort and give a name to the integration.
 - Step 3: Select the Dynamic conversation flow the user created and click on save.
 </br></br>
-Create a Web integration to connect the chatbot into the customer's website  / Facebook page / WhatsApp page etc.This widget should be integrated with other hotel systems, such as printers or room service complaint receivers via APIs. The chatbot’s UI can be modified here before deployment.<br>
+* Create a Web integration to connect the chatbot into the customer's website  / Facebook page / WhatsApp page etc.This widget should be integrated with other hotel systems, such as printers or room service complaint receivers via APIs. The chatbot’s UI can be modified here before deployment.<br>
 - Step 1: Select the Web widget for Property website for connecting the chatbot to a website.
 - Step 2: Select the property and give it an integration name.
 - Step 3: Go to the “appearance" tab to customize the UI of the web widget created and go to the “Chatbot / contact” tab to select the chatbot we created in the previous step.
