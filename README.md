@@ -83,6 +83,9 @@ Integration Challenges with External APIs: Addressed by implementing strict vers
 Chatbot Hallucinations: Mitigated through advanced training of AI models and real-time error-checking.
 Data Privacy: Ensuring compliance with data protection regulations through robust security measures.
 
+# Contact Information
+Please contact ** Andy Dharmani (andy@myma.com) ** or ** Sandnya Patel (spatil23@umd.edu) ** for any support requests.
+
 # Example:
 Event or Promotion Notification Context
 Trigger: When there is a new event, promotion, or deal relevant to the customer’s preferences.
